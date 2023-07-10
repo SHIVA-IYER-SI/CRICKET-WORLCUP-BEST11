@@ -1,2 +1,3 @@
 # CRICKET-WORLCUP-BEST11
-FROM ALL DATA COLLECTED , HAVE MADE A BEST PLAYING 11 FOR CRICKET ICC T20 WORLDCUP 2022 
+Using Python, I collected and analyzed player performance data for the ICC T20 World Cup 2022. With Python's data manipulation and analysis capabilities, I processed the data to identify top performers in batting, bowling, and fielding. This informed my decisions in selecting the best players for the playing 11.
+
